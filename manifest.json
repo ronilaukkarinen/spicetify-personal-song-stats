@@ -1,0 +1,8 @@
+{
+  "name": "Personal Song Stats",
+  "description": "Display Last.fm play counts, last played time, and release dates in the bottom bar",
+  "version": "1.0.2",
+  "author": "rolle",
+  "main": "index.js",
+  "readme": "README.md"
+}
