@@ -4,7 +4,6 @@
 ![Last.fm](https://img.shields.io/badge/Last.fm-API-D51007?style=for-the-badge&logo=last.fm&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Version](https://img.shields.io/badge/version-1.0.2-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
 A Spicetify extension that displays your personal song statistics in the right nav right before the song title.
 
